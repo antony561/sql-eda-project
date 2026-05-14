@@ -4,6 +4,7 @@
 ![Azure Data Studio](https://img.shields.io/badge/Azure%20Data%20Studio-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 A full end-to-end SQL Exploratory Data Analysis project on a real-world sales database — simulating exactly how a data analyst explores a new database in a professional environment.
+<img width="1507" height="868" alt="image" src="https://github.com/user-attachments/assets/bfd53c1a-0ec5-49fe-a540-063a0061717e" />
 
 ---
 
